@@ -1,3 +1,7 @@
 baseURL: https://rising-rain.com/
 languageCode: ko-kr
 title: Rising rain
+theme:
+  - hugo-starter-tailwind-basic
+build:
+  writeStats: true

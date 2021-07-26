@@ -1,0 +1,31 @@
+{
+  "htmlElements": {
+    "tags": [
+      "body",
+      "head",
+      "html",
+      "link",
+      "main",
+      "meta",
+      "p",
+      "script",
+      "title"
+    ],
+    "classes": [
+      "prose",
+      "prose-lg",
+      "prose-xl",
+      "sm:prose-xl",
+      "sm:text-base",
+      "sm:text-lg",
+      "text-base",
+      "text-lg",
+      "text:base",
+      "xs:prose-lg",
+      "xs:prose-xl"
+    ],
+    "ids": [
+      "front-page"
+    ]
+  }
+}

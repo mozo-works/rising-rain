@@ -1,0 +1,24 @@
+{
+  "comments": {
+    "dependencies": {},
+    "devDependencies": {
+      "@tailwindcss/typography": "hugo-starter-tailwind-basic",
+      "autoprefixer": "hugo-starter-tailwind-basic",
+      "postcss": "hugo-starter-tailwind-basic",
+      "postcss-cli": "hugo-starter-tailwind-basic",
+      "postcss-purgecss": "hugo-starter-tailwind-basic",
+      "tailwindcss": "hugo-starter-tailwind-basic"
+    }
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "@tailwindcss/typography": "^0.4",
+    "autoprefixer": "^10.0.4",
+    "postcss": "^8.1.10",
+    "postcss-cli": "^8.0.0",
+    "postcss-purgecss": "^2.0.3",
+    "tailwindcss": "^2.0.1"
+  },
+  "name": "rising-rain",
+  "version": "0.1.0"
+}
